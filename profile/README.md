@@ -7,3 +7,14 @@
     </picture>
   </a>
 </p>
+
+
+<p align="center">
+  <b>Fast, HTML-first bundler, compiler and build tool for modern web applications.</b>
+</p>
+
+<p align="center">
+  <a href="https://guchho.js.org/">Documentation</a> |
+  <a href="">Security Policy</a> |
+  <a href="https://guchho.js.org/playground/">Playground</a>
+</p>
