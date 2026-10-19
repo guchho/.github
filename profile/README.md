@@ -15,6 +15,6 @@
 
 <p align="center">
   <a href="https://guchho.js.org/">Documentation</a> |
-  <a href="">Security Policy</a> |
+  <a href="https://github.com/guchho/.github/blob/main/.github/SECURITY.md">Security Policy</a> |
   <a href="https://guchho.js.org/playground/">Playground</a>
 </p>
